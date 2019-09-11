@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="dessin.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient893">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop889" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop891" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient6813">
+      <stop
+         id="stop6809"
+         offset="0"
+         style="stop-color:#de0000;stop-opacity:1;" />
+      <stop
+         id="stop6811"
+         offset="1"
+         style="stop-color:#de0000;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       id="filter6264"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Cutout Glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood">
+      <feOffset
+         id="feOffset6254"
+         dx="3"
+         dy="3" />
+      <feGaussianBlur
+         id="feGaussianBlur6256"
+         result="blur"
+         stdDeviation="3" />
+      <feFlood
+         id="feFlood6258"
+         result="flood"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feComposite
+         id="feComposite6260"
+         result="composite"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feBlend
+         id="feBlend6262"
+         mode="normal"
+         in2="composite"
+         in="blur" />
+    </filter>
+    <linearGradient
+       y2="23.001603"
+       x2="186.42816"
+       y1="23.001603"
+       x1="144.25888"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6817"
+       xlink:href="#linearGradient6813"
+       inkscape:collect="always" />
+    <filter
+       inkscape:menu-tooltip="Adds a colorizable opaque background"
+       inkscape:menu="Fill and Transparency"
+       inkscape:label="Fill Background"
+       id="filter7325"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:collect="always">
+      <feBlend
+         result="fbSourceGraphic"
+         id="feBlend7327"
+         in2="BackgroundImage"
+         mode="overlay"
+         inkscape:collect="always" />
+      <feColorMatrix
+         id="feColorMatrix7329"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feFlood
+         in="fbSourceGraphic"
+         flood-opacity="1"
+         flood-color="rgb(200,55,55)"
+         result="result1"
+         id="feFlood7331" />
+      <feImage
+         result="result2"
+         xlink:href=""
+         id="feImage7333" />
+      <feBlend
+         mode="multiply"
+         result="result4"
+         id="feBlend7335"
+         in2="result1" />
+      <feMerge
+         result="result3"
+         id="feMerge7337">
+        <feMergeNode
+           in="result1"
+           id="feMergeNode7339" />
+        <feMergeNode
+           in="fbSourceGraphic"
+           id="feMergeNode7341" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient893"
+       id="linearGradient895"
+       x1="144.25888"
+       y1="23.001603"
+       x2="186.42816"
+       y2="23.001603"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter901"
+       x="-0.024152422"
+       width="1.0483048"
+       y="-0.02411632"
+       height="1.0482326">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.078244993"
+         id="feGaussianBlur903" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="373.19296"
+     inkscape:cy="854.5972"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1-0"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="877"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="enable-background:new"
+       id="g887"
+       transform="translate(-4.1132708,18.339032)">
+      <g
+         id="layer1-0"
+         inkscape:label="Calque 1">
+        <text
+           transform="scale(1.6591291,0.60272587)"
+           id="text7345"
+           y="56.316429"
+           x="38.715172"
+           style="font-style:normal;font-weight:normal;font-size:6.22947645px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15573691"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.15573691"
+             y="56.316429"
+             x="38.715172"
+             id="tspan7343"
+             sodipodi:role="line">____________</tspan></text>
+        <text
+           transform="scale(0.88455116,1.1305169)"
+           id="text6240"
+           y="26.974104"
+           x="72.309601"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71032524px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29275385"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.71032524px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.29275385"
+             y="26.974104"
+             x="72.309601"
+             id="tspan6238"
+             sodipodi:role="line">ACCESS</tspan></text>
+        <text
+           transform="matrix(0.88292631,0,0,1.116233,-18.376694,-0.16876994)"
+           id="text6244"
+           y="27.298996"
+           x="147.17845"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.82160854px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29553595;stroke-opacity:1;filter:url(#filter7325)"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.82160854px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29553595;stroke-opacity:1"
+             y="27.298996"
+             x="147.17845"
+             id="tspan6242"
+             sodipodi:role="line">CODE</tspan></text>
+        <text
+           transform="scale(1.0007482,0.99925235)"
+           id="text6248"
+           y="30.538485"
+           x="147.23663"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.31787968px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.382947"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.31787968px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke-width:0.382947"
+             y="30.538485"
+             x="147.23663"
+             id="tspan6246"
+             sodipodi:role="line">&gt;</tspan></text>
+        <text
+           transform="scale(0.71557,1.3974873)"
+           id="text6252"
+           y="30.669731"
+           x="89.323776"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66554451px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:17.37078285px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77211964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.66554451px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:17.37078285px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77211964;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+             y="30.669731"
+             x="89.323776"
+             id="tspan6250"
+             sodipodi:role="line">SCHOOL</tspan></text>
+        <text
+           id="text7349"
+           y="35.610401"
+           x="47.841244"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="45.265896"
+             x="47.841244"
+             id="tspan7347"
+             sodipodi:role="line" /></text>
+        <text
+           transform="matrix(1.2266549,0,0,1.1017386,-22.928575,0.20932154)"
+           id="text6240-1"
+           y="27.12903"
+           x="60.584187"
+           style="font-style:normal;font-weight:normal;font-size:11.91874695px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.29796866;filter:url(#filter901)"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.91874695px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c83737;fill-opacity:1;stroke-width:0.29796866"
+             y="27.12903"
+             x="60.584187"
+             id="tspan6238-6"
+             sodipodi:role="line">&lt;</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
